@@ -1,0 +1,9 @@
+{
+  "require": ["./test/setup.js", "./test/configSetup.js"],
+  "reporter": "spec",
+  "ui": "bdd",
+  "recursive": true,
+  "colors": true,
+  "timeout": 10000,
+  "slow": 100
+}
