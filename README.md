@@ -1,4 +1,15 @@
+trap ctrl_c INT
 
+function ctrl_c(){
+    echo -e "\n\n${Cyan}[${BYellow}!${Cyan}] ${BRed}Saliendo De La Aplicación...IvanM_SDP${Color_Off}"
+    tput cnorm
+    exit 1
+}
+
+### Banner
+function banner(){
+echo -e "${BGreen}"
+sleep 0.15 && echo -e "\t██████████████████████████████████████████████"
 sleep 0.15 && echo -e "\t▓   ▓           ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓"
 sleep 0.15 && echo -e "\t▓   ▓   ▓▓▓   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓"
 sleep 0.15 && echo -e "\t▓   ▓   ▓▓▓   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓"
@@ -14,11 +25,13 @@ sleep 0.15 && echo -e "\t\t\t\t    ${Green} +--==[ By ${BBlue}@m4lal0${Green} ]=
 tput civis
 }
 
+ 
+
+
 function helpPanel(){
 clear; banner
-echo -e "\t${BGray}Herramienta para rastrear una IP pública, puede ser su IP o alguna otra IP.${Color_Off}"
-echo -e "\n\t${BGray}USO:${Color_Off}"
-echo 
+
+ 
 
 
 <p align="left">
@@ -37,7 +50,7 @@ echo
 </p>
 
 
-
+echo
 
 - Hola Mundo, Soy@Ivanmsdp
 - Desarollador Hack,Ip Tool
