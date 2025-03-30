@@ -1,12 +1,13 @@
-trap ctrl_c INT
+BGreen='\033[1;32m' 
+<!---Verde--->
 
-function ctrl_c(){
-    echo -e "\n\n${Cyan}[${BYellow}!${Cyan}] ${BRed}Saliendo De La Aplicación...IvanM_SDP${Color_Off}"
-    tput cnorm
-    exit 1
-}
+Green='\033[0;32m'
 
-### Banner
+ <!---Verde--->
+BBlue='\033[1;34m'   
+<!---Azul--->
+
+<!---Banner--->
 function banner(){
 echo -e "${BGreen}"
 sleep 0.15 && echo -e "\t██████████████████████████████████████████████"
@@ -30,10 +31,6 @@ tput civis
 
 function helpPanel(){
 clear; banner
-
- 
-
-
 <p align="left">
 <a href="#"><img title="Creador: @🇲🇽🦋⃟⋆⃟ۣۜ𝕀✞ｴ𝚟à𝘯™_ᵛⁱᵖ" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -50,7 +47,10 @@ clear; banner
 </p>
 
 
-echo
+}
+main
+
+
 
 - Hola Mundo, Soy@Ivanmsdp
 - Desarollador Hack,Ip Tool
