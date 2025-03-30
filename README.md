@@ -13,7 +13,7 @@
 <a href="https://github.com/htr-tech/pakcrack/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/htr-tech/pakcrack?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
-## Instal
+
 
 
 - Hola Mundo, Soy@Ivanmsdp
