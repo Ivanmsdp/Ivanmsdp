@@ -6,7 +6,7 @@
 
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Wet+Paint&size=35&pause=1000&color=F77432&background=13520F00&center=verdadero&vCenter=FALSO&repeat=&random=&width=500&lines=Creador:+%40🇲🇽⋆⃟ۣۜ𝕀✞Ivan™_ᵛⁱᵖ" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Wet+Paint&size=35&pause=1000&color=F77432&background=13520F00&center=verdadero&vCenter=FALSO&repeat=&random=&width=500&lines=Creador:+%40𝕀✞Ivan™_ᵛⁱᵖ" alt="Typing SVG" /></a>
 </div>
 
 
