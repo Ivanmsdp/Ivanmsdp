@@ -7,7 +7,7 @@
 
 <div align="center">
 <img
-  
+  src=""
   alt="Logo de I-haklab"/>
 </div>
 
