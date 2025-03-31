@@ -9,40 +9,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Wet+Paint&size=35&pause=1000&color=F77432&background=13520F00&center=verdadero&vCenter=FALSO&repeat=&random=&width=500&lines=Creador:+%40Ivan™_ᵛⁱᵖ++v2.5" alt="Typing SVG" /></a>
 </div>
 
-> [!NOTE]
-
->  The main objective of the creation of this laboratory is to transport the applications, tools and/or frameworks of a Linux computer environment to the palm of the user's hand thanks to the portability that the Android operating system can provide us. We hope that this project will help contribute to the cybersecurity community and that people can develop efficient countermeasures. The use of i-Haklab without prior mutual consistency may lead to illegal activity. It is the end user's responsibility to obey all applicable local, state, and federal laws. The authors take no responsibility and are not responsible for any misuse or damage caused by this program
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Itim&size=45&pause=1000&color=F7BF36&center=verdadero&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&height=100&lines=%F0%9F%91%87+Social+networks+%F0%9F%91%87)](https://git.io/typing-svg) 
 
-</div>
-<div align="center">
-  <a href="https://www.youtube.com/c/Ivam3byCinderella" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="http://github.com/ivam3" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
-  </a>
-  <a href="https://whatsapp.com/channel/0029VaM2Qbd9MF8wiloJx510" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://t.me/Ivam3bCinderella" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <!--<a href="https://t.me/ivam3_Bot" target="_blank">-->
-  <!--  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />-->
-  <!--</a>-->
-  <!--<a href="https://www.facebook.com/ivam3" target="_blank">-->
-  <!--  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />-->
-  <!--<a href="https://www.instagram.com/_ivam3" target="_blank">-->
-  <!--  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />-->
-  <!--<a href="https://x.com/_ivam3" target="_blank">-->
-  <!--  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />-->
-  <!--</a>-->
-  </a>
-  </a>
 </div>
 
 BGreen='\033[1;32m' 
