@@ -11,8 +11,7 @@
 
 
 > [!NOTA]
->  El objetivo DE LA CREACION PRINCIPAL, es facilitar el acceso de las aplicaciones, herramientas y/o frameworks de un entorno informático Linux al usuario.
-
+> El Objetivo De La Creacion Principal,Es Facilitar El Acceso De Las Aplicaciones, Herramientas Y/O Frameworks De Un Entorno Informatico Linux Al Usuario.
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Itim&size=45&pause=1000&color=F7BF36&center=verdadero&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&height=100&lines=%F0%9F%91%87+Social+networks+%F0%9F%91%87)](https://git.io/typing-svg) 
