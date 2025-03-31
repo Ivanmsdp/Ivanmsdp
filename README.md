@@ -9,11 +9,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Wet+Paint&size=35&pause=1000&color=F77432&background=13520F00&center=verdadero&vCenter=FALSO&repeat=&random=&width=500&lines=Creador:+%40Ivan™_ᵛⁱᵖ++v2.5" alt="Typing SVG" /></a>
 </div>
 
-> [!NOTE]
->  El Objetivo De La Creacion Principal, Es Facilitar El Acceso De Las Aplicaciones, Herramientas Y/O Frameworks De Un Entorno Informatico Linux Al Usuario.
-
-
->  El Objetivo De La Creacion Principal, Es Facilitar El Acceso De Las Aplicaciones, Herramientas Y/O Frameworks De Un Entorno Informatico Linux Al Usuario.
+> [!NOTA]
+>  EL OBJETIVO DE LA CREACION PRINCIPAL, ES FACILITAR EL ACCESO DE LAS APLICACIONES, HERRAMIENTAS Y/O FRAMEWORKS DE UN ENTORNO INFORMATICO LINUX AL USUARIO. GRACIAS A LA PORTABILIDAD QUE OFRECE EL SISTEMA OPERATIVO ANDROID. ESPERAMOS QUE ESTE PROYECTO CONTRIBUYA A LA COMUNIDAD DE CIBERSEGURIDAD Y QUE LAS PERSONAS PUEDAN DESARROLLAR CONTRAMEDIDAS EFICACES. EL USO DE  ESTÁ HERRAMIENTA SIN UNA COHERENCIA PREVIA PUEDE DAR LUGAR A ACTIVIDADES ILEGALES. ES RESPONSABILIDAD DEL USUARIO FINAL CUMPLIR CON TODAS LAS LEYES LOCALES, ESTATALES Y FEDERALES APLICABLES. TEAM (S_D_P) NO SE RESPONSABILIZA POR EL MAL USO O DAÑOS CAUSADOS SOBRE ESTA INCREÍBLE HERRAMIENTA.
 
 
 
