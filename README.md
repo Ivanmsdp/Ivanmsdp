@@ -8,7 +8,7 @@
 <div align="center">
 <img
   src="/.img/I-haklab.png"
-  alt="Logo de I-haklab"/>
+  
 </div>
 
 ![linea](.img/linea.gif)
