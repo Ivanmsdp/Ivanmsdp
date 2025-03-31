@@ -11,8 +11,9 @@
 
 > [!NOTE]
 >  El Objetivo De La Creacion Principal, Es Facilitar El Acceso De Las Aplicaciones, Herramientas Y/O Frameworks De Un Entorno Informatico Linux Al Usuario.
->  
-El Objetivo De La Creacion Principal, Es Facilitar El Acceso De Las Aplicaciones, Herramientas Y/O Frameworks De Un Entorno Informatico Linux Al Usuario.
+
+
+>  El Objetivo De La Creacion Principal, Es Facilitar El Acceso De Las Aplicaciones, Herramientas Y/O Frameworks De Un Entorno Informatico Linux Al Usuario.
 
 
 
