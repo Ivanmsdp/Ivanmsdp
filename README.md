@@ -5,11 +5,7 @@
 </p>
 
 
-<div align="center">
 
-  
-  src="Logo de I-haklab"
-</div>
 
 ![linea](.img/linea.gif)
 <div align="center">
