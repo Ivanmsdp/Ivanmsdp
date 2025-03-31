@@ -8,7 +8,7 @@
 <div align="center">
 
   
-  alt="Logo de I-haklab"/>
+  alt="Logo de I-haklab"
 </div>
 
 ![linea](.img/linea.gif)
